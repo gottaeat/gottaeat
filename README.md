@@ -5,6 +5,8 @@
 - [setboxes](https://github.com/gottaeat/setboxes)
   Ansible playbook, and utilities utilizing libVirt, to generate Arch Linux
   based per-target rootfs images and to maintain once written to baremetal.
+- [cloudvirt](https://github.com/gottaeat/cloudvirt)
+  Cloud-Init powered VM generator that utilizes the libVirt API.
 - [bands](https://github.com/gottaeat/bands)
   RFC 1459 and 2812 compliant (with a bit of IRCv3), concurrent IRC bot with
   extensive and extendable features.

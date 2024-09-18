@@ -18,6 +18,9 @@
 - [irc-docker](https://github.com/gottaeat/irc-docker)
   Set-up and forget docker container for deploying IRSSI+tmux, exposed via
   rootless sshd.
+- [wya](https://github.com/gottaeat/wya)
+  Dockerized IP ASN and geolocation lookup tool built with Flask and GeoLite2
+  databases.
 - [bootstrap-standalone-llvm](https://github.com/gottaeat/bootstrap-standalone-llvm)
   Containerized boostrapper to build a non-GNU, standalone, self-hosting and
   portable* LLVM suite.

@@ -29,6 +29,8 @@
   support for rootfs default overrides.
 - [ioquake3-docker](https://github.com/gottaeat/ioquake3-docker)
   Containerized ioQuake3 server setup.
+- [docker-recursive-bind](https://github.com/gottaeat/docker-recursive-bind)
+  Dockerized configurable recursive BIND9 named installation. 
 - [zonegen](https://github.com/gottaeat/zonegen)
   DDNS implementation for OpenWRT odhcpd to be able to update BIND via rndc on
   every DHCP lease action without external dependencies.

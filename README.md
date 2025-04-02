@@ -37,8 +37,9 @@
 ### networked services
 - [mserv](https://github.com/gottaeat/mserv)
   Dockerized secure-out-of-the-box production quality SMTP+IMAP4 server
-- [docker-recursive-bind](https://github.com/gottaeat/docker-recursive-bind)
-  Dockerized configurable recursive BIND9 named installation.
+- [docker-bind](https://github.com/gottaeat/docker-bind)
+  Configurable BIND9 named container that allows for setting up a forwarding or
+  recursive nameserver.
 ### misc
 - [irc-docker](https://github.com/gottaeat/irc-docker)
   Set-up and forget docker container for deploying IRSSI+tmux, exposed via

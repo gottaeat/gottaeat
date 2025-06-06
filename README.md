@@ -9,6 +9,9 @@
 - [openwrt-builds](https://github.com/gottaeat/openwrt-builds)
   Containerized OpenWRT squashFS and toolchain builder with jinja2 templating
   support for rootfs default overrides.
+- [wrt-sdk-build](https://github.com/gottaeat/wrt-sdk-build)
+  OpenWRT SDK builder, useful for building SDK targets other than the officially
+  supplied x86_64 ones.
 
 ## protocol implementations
 - [bands](https://github.com/gottaeat/bands)

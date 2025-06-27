@@ -25,9 +25,10 @@
 - [cloudvirt](https://github.com/gottaeat/cloudvirt)
   CloudVirt creates and destroys cloud-init powered x86_64 VMs utilizing the
   libVirt API.
-- [gencloud](https://github.com/gottaeat/gencloud)
-  GenCloud creates CIDATA cloud-init ISOs that hold user-data and meta-data
-  YAMLs.
+- [genutm](https://github.com/gottaeat/genutm)
+  GenUTM creates aarch64 Linux VMs that run via Apple Virtualization Framework
+  utilizing UTM bundles, alongside the CIDATA cloud-init ISOs that hold the
+  user-data and meta-data YAMLs.
 
 ## mail + dns
 - [mserv](https://github.com/gottaeat/mserv)
